@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![]()
+![](https://github.com/vchery/parstagram/blob/main/parstagram-p2-demo.gif)
 
 
 
